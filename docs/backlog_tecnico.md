@@ -10,11 +10,13 @@ Se implementó un tablero dinámico para reflejar el estado real del proyecto. L
 * [cite_start]**In Progress:** Tareas en desarrollo activo (Contenerización y Datos)[cite: 54, 57].
 * [cite_start]**Done:** Requerimientos finalizados y verificados técnicamente[cite: 122].
 
-![Vista General del Tablero Trello](docs/img/terminando.png)
-ya con las hu 
+![ya con las hu ](docs/img/terminando.png)
 
-(docs/img/en proceso.png)
-(docs/img/inicio .png)
+
+![desarrollando las hu  ](docs/img/en proceso.png)
+
+
+![iniciando trello  ](docs/img/inicio .png)
 
 ## 3. Historias de Usuario (HU) Esenciales
 
