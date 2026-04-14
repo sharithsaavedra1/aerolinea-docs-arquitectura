@@ -52,3 +52,5 @@ La documentación debe mantener alineación entre análisis de dominios, ADR, ba
 ## Resultado esperado
 
 Al finalizar esta fase, el proyecto debe quedar con una base documental trazable que permita continuar el proceso desescolarizado con una ruta real de ejecución técnica [file:2]. Esa ruta parte de un modelo funcional ya construido y busca estabilizarlo, mantenerlo, versionarlo y desplegarlo de forma controlada [file:2].
+
+link repositorio BD https://github.com/sharithsaavedra1/aerolinea-bd-engine.git
